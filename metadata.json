@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de Iscas - Dashboard Filiais",
+  "description": "Dashboard interno de gestão de iscas por filial com indicadores editáveis, gráficos de evolução e matriz de registros detalhada.",
+  "requestFramePermissions": []
+}
